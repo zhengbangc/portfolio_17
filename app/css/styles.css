@@ -1,2 +1,4 @@
-h1 {
-  color: blue; }
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,500,800|Sacramento:600,400,300|Roboto+Slab:300);
+@font-face {
+  font-family: 'Lemon Milk';
+  src: url("../data/LemonMilk.otf") format("opentype"); }
